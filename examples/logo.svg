@@ -1,6 +1,6 @@
 <svg width="300" height="200">
-  <circle cx= "150" cy="100" r="90" stroke="blue"
-  stroke-width="3" fill= "blue"/>
-  <text x="135" y="100"
-  fill="red">SVG</text>
+  <polygon points="100, 0, 300, 200 200, 300" style="yellow"
+  stroke-width="3" fill= "yellow"/>
+  <text x="90" y="190"
+  fill="blue">SVG</text>
   </svg>
