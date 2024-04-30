@@ -1,6 +1,6 @@
 <svg width="300" height="200">
-  <rect width="250" height="250" stroke="blue"
-  stroke-width="3" fill= "blue"/>
-  <text x="119" y="99"
-  fill="grey">svg</text>
+  <polygon points="90, 10, 10, 200 200, 200" style="grey"
+  stroke-width="3" fill= "grey"/>
+  <text x="85" y="140"
+  fill="blue">ABC</text>
   </svg>
